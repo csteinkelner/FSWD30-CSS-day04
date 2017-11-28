@@ -71,8 +71,9 @@ input
 #zwischenbar
 {
 	background-color: #232F3E;
-	width: 1550px;
+	width: 100%;
 	height: 40px;
+	float: left;
 
 
 }
@@ -84,18 +85,19 @@ input
 #banner
 {
 	width: 1550px;
+	float: left;
 
 }
 .angebote
 {
-	width: 60%;
+	width: 80%;
 	float: left;
 	margin-left: auto;
 }
 #left
 {
 	text-align: left;
-	width: 60%;
+
 	float: left;
 	margin-left: auto;
 }
@@ -103,7 +105,7 @@ input
 {
 	width: 1550px;
 }
-#pic1
+.pics
 {
-	width: 400px;
+	width: 100%
 }
